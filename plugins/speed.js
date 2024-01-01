@@ -90,7 +90,7 @@ showAdAttribution: true,
 title: ``,
 body: 'I N F O  P I N G  E L A I N A',
 thumbnailUrl: 'https://telegra.ph/file/4f9594a606f2d1ab7e8f8.jpg',
-sourceUrl: "https://whatsapp.com/channel/0029VaF8RYn9WtC16ecZws0H",
+sourceUrl: "https://chat.whatsapp.com/LTYOWwDQ9xuHMQtCuGOEn4",
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: i})
