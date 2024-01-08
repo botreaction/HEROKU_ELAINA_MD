@@ -1,7 +1,7 @@
 {
-    "name": "Wil",
+    "name": "Elaina-Ai",
     "version": "3.0.0",
-    "description": "Wil",
+    "description": "Elaina-Ai Simple Bot WhatsApp By Reyz Hayanasi",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -28,7 +28,7 @@
     ],
     "homepage": "https://github.com/ImYanXiao/Elaina-MultiDevice",
     "author": {
-        "name": "Wil"
+        "name": "ReyzHayanasi"
     },
     "repository": {
         "type": "git",
